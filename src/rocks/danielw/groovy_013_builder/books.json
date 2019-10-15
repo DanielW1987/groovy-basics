@@ -1,0 +1,30 @@
+{
+    "books": {
+        "currentBook": {
+            "title": "The 4 Hour Work Week",
+            "isbn": "978-0-0307-46535-1",
+            "author": {
+                "first": "Timothy",
+                "last": "Ferris",
+                "twitter": "@tferris"
+            },
+            "related": [
+                "The 4 Hour Body",
+                "The 4 Hour chef"
+            ]
+        },
+        "previousBook": {
+            "title": "The 4 Hour Body",
+            "isbn": "978-0-0307-46535-2",
+            "author": {
+                "first": "Timothy",
+                "last": "Ferris",
+                "twitter": "@tferris"
+            },
+            "related": [
+                "The 4 Hour Work Week",
+                "The 4 Hour chef"
+            ]
+        }
+    }
+}
